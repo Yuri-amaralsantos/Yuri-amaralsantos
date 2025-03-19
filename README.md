@@ -1,4 +1,4 @@
-## 👋 Olá! Eu sou Yuri Amaral Santos
+## Olá! Eu sou Yuri Amaral Santos
 
 🚀 Desenvolvedor & Designer | Apaixonado por criar soluções criativas e funcionais.
 
@@ -39,6 +39,4 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuri-amaral-santos/)  [![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-000?style=flat&logo=vercel&logoColor=white)](https://your-portfolio.com)  [![E-mail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
 
----
 
-💡 Sempre aprendendo, sempre criando! 🚀
