@@ -1,3 +1,6 @@
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yuri-amaralsantos&theme=dark)](https://git.io/streak-stats)
+
+
 ## Olá! Eu sou Yuri Amaral Santos
 
 🚀 Desenvolvedor & Designer | Apaixonado por criar soluções criativas e funcionais.
