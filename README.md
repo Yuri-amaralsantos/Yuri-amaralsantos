@@ -29,9 +29,9 @@
 
 ### 📊 Estatísticas do GitHub
 
-![Estatísticas do GitHub de Yuri](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=dark)
+![Estatísticas do GitHub de Yuri](https://github-readme-stats.vercel.app/api?username=Yuri-amaralsantos&show_icons=true&theme=dark)
 
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=dark)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuri-amaralsantos&layout=compact&theme=dark)
 
 ---
 
