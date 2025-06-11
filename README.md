@@ -46,6 +46,10 @@
 
 🔹 **[LearnNotes](https://github.com/Yuri-amaralsantos/wikiStudyApp)** - Um aplicativo web de anotações que permite criar fichas de estudo de forma simples e prática, armazenando os dados localmente no navegador. O diferencial do LearnNotes é a possibilidade de criar links entre as anotações, facilitando a organização do conhecimento.
 
+🔹 **[Blog de Tecnlogia](https://github.com/Yuri-amaralsantos/blogVue)** - Um blog de tecnologia simples e responsivo, desenvolvido utilizando o framework Vue.js. Ele foi projetado para ser uma plataforma leve e eficiente para compartilhar artigos e notícias sobre o mundo da tecnologia..
+
+🔹 **[BookRatingSite](https://github.com/Yuri-amaralsantos/bookRatingNetCore)** - Um site de avaliação de livros com frontend React, backend dotnet core, autenticação JWT, e PostgreSQL.
+
 ---
 
 ### 📫 Conecte-se Comigo
